@@ -1,3 +1,4 @@
-# My first Rust Program
+# Hello World
+- My first Rust Program
 
 [here!](https://doc.rust-lang.org/book/ch01-02-hello-world.html)
