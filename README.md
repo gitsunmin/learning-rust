@@ -5,3 +5,4 @@ what I wrote while reading [this book](https://doc.rust-lang.org/book/title-page
 2. [Hello Cargo](the_rust_programing_language/2.hello_cargo//README.md)
 3. [Guessing Game](the_rust_programing_language/3.guessing_game//README.md)
 4. [Variables And Mutability](the_rust_programing_language/4.variables-and-mutability/README.md)
+5. [Data Types](the_rust_programing_language/5.data_types/README.md)
