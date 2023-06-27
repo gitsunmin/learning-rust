@@ -1,9 +1,13 @@
 # Learning Rust
+
 ## The Rust Programming Language
+
 what I wrote while reading [this book](https://doc.rust-lang.org/book/title-page.html#the-rust-programming-language)
-1. [Hello World](the_rust_programing_language/1.hello_world/README.md)
-2. [Hello Cargo](the_rust_programing_language/2.hello_cargo//README.md)
-3. [Guessing Game](the_rust_programing_language/3.guessing_game//README.md)
-4. [Variables And Mutability](the_rust_programing_language/4.variables-and-mutability/README.md)
-5. [Data Types](the_rust_programing_language/5.data_types/README.md)
-6. [Functions](the_rust_programing_language/6.functions/README.md)
+
+## TOC
+
+| No  | Title                                                                                                | Description                           |
+| --- | ---------------------------------------------------------------------------------------------------- | ------------------------------------- |
+| 1   | [Getting Started](/the_rust_programing_language/1_Getting-Started/README.md)                         | Hello World를 띄운다.                 |
+| 2   | [Guessing Game](/the_rust_programing_language/2_guessing_game/README.md)                             | 랜덤 숫자 맞추기 게임                 |
+| 3   | [Common Programming Concepts](/the_rust_programing_language/3_Common-Programming-Concepts/README.md) | 변수, 함수, 주석, 제어문, 데이터 타입 |
